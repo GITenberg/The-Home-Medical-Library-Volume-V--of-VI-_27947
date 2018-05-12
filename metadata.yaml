@@ -1,0 +1,29 @@
+_repo: The-Home-Medical-Library-Volume-V--of-VI-_27947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Winslow, Kenelm
+    birthdate: 1863
+    gutenberg_agent_id: '33031'
+    url: http://www.gutenberg.org/2009/agents/33031
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine, Popular'
+- !lcsh 'Medicine'
+tableOfContents: "Sanitation, ed. by T. Darlington\r\nWater supply and purification,\
+  \ by W. P. Gerhard\r\nPure food for the housekeeper, by S.J. Baker\r\nThe house\
+  \ and grounds, by G.M. Price"
+title: The Home Medical Library, Volume 5 (of 6)
+url: http://www.gutenberg.org/ebooks/27947
